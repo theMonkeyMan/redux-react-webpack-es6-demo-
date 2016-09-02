@@ -3,7 +3,7 @@ import {render} from "react-dom";
 import {createStore,applyMiddleware} from "redux";
 import {Provider} from "react-redux";
 import {addReducer} from "./reducer/addReducer";
-import View from "./View";
+import View from "./view";
 import logger from "./middleWare/logger";
 import throwLog from "./middleWare/throw";
 
