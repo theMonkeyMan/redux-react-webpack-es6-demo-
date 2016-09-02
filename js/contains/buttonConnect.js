@@ -1,5 +1,5 @@
 import {connect} from "react-redux";
-import Button from "../component/Button";
+import Button from "../component/button";
 import {addAction,reduceAction} from "../action/action.js";
 
 /*向指定组件中传递自定义属性,ownProps参数指的是调用组件时设置的属性,

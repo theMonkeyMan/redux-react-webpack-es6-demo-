@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import InputConnect from "./contains/inputConnect";
-import ButtonConnect from "./contains/ButtonConnect";
+import ButtonConnect from "./contains/buttonConnect";
 
 class View extends Component {
     render() {
